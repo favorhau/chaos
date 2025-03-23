@@ -1,0 +1,48 @@
+{
+  "标题": [
+    {
+      "type": "text",
+      "prompt": "我需要生成一个标题 1，主要是描述 23cm塑料飞盘运动飞碟宠物飞盘厂家供应质量保障专业做logo，需要有网上店铺的味道，这个是长词，可以长一点"
+    },
+    {
+      "type": "text",
+      "prompt": "我需要生成一个标题 2，主要是简要描述，需要有网上店铺的味道，不可以太长"
+    }
+  ],
+  "描述": [
+    {
+      "type": "text",
+      "prompt": "我需要生成一个描述基于我们自己的参考 别人的：THE ORIGINAL WORLD CLASS FRISBEE - Is back, Reintroducing the legendary 119g design.\n9.25\" DIAMETER AND WEIGHS 119G - Enjoy the ultimate combination of weight and performance with a 119g Frisbee that delivers exhilarating throws and accurate catches.\nCRAFTED WITH SOFTER, HIGHER QUALITY - LDPE plastic for an enhanced feel and grip.\nSTEPPED CONTOUR RIDGES - Enhanced with easy-to-grip stepped contour ridges for superior handling.\nSUITABLE FOR AGES 5 AND ABOVE - Designed to entertain a wide range of age groups, starting from 5 years old."
+    }
+  ],
+  "主图": [
+    {
+      "type": "image",
+      "prompt": "飞盘的正面",
+      "path": "./image-1.png"
+    },
+    {
+      "type": "image",
+      "prompt": "等宽高的图片，飞起来的飞盘",
+      "path": "./image-2.png"
+    }
+  ],
+  "A Plus": [
+    {
+      "type": "image",
+      "prompt": "我需要生成一个宽图，宽是 1080 高 600，左边是风景，背景也是风景，右边是我们的飞盘",
+      "path": "./image-3.png"
+    },
+    {
+      "type": "text",
+      "prompt": "描述我们的飞盘有多好，然后多轻便"
+    },
+    {
+      "type": "image",
+      "prompt": "我需要生成一个宽图，宽是 1080 高 800，放一个人放飞飞盘，人不要露脸只有背景",
+      "path": "./image-4.png"
+    }
+  ],
+  "自己的商品参考": "23cm塑料飞盘运动飞碟宠物飞盘厂家供应质量保障专业做logo\n\n商品属性\n材质 \nPP\n产地 \n宁波\n品牌 \n宁波新茂\n货号 \nXM-FR-22\n规格 \n23*23*2CM\n是否多功能 \n否\n是否外贸 \n否\n加工定制 \n是\n加工方式 \nLOGO贴牌\n是否有动漫形象 \n否\n适用年龄 \n少年（7-14岁）\n颜色 \n彩色\n是否专供外贸 \n否\n3C配置类别 \n14岁以下其它玩具\n包装信息\n重量(g)\n67",
+  "竞对参考": "Whamo-O Frisbee - World Class Frisbee - 9.25\" Sport Flying Disc 119G - Lightweight - Durable Flying Disc Toys for School, Game Prizes, Party, Indoor & Outdoor Game\n\nTHE ORIGINAL WORLD CLASS FRISBEE - Is back, Reintroducing the legendary 119g design.\n9.25\" DIAMETER AND WEIGHS 119G - Enjoy the ultimate combination of weight and performance with a 119g Frisbee that delivers exhilarating throws and accurate catches.\nCRAFTED WITH SOFTER, HIGHER QUALITY - LDPE plastic for an enhanced feel and grip.\nSTEPPED CONTOUR RIDGES - Enhanced with easy-to-grip stepped contour ridges for superior handling.\nSUITABLE FOR AGES 5 AND ABOVE - Designed to entertain a wide range of age groups, starting from 5 years old.\n\nTechnical Details\nItem Weight ‎119 Grams\nBrand Name ‎Wham-O\nModel Name ‎Whamo-O Frisbee - World Class Frisbee\nMaterial ‎Plastic\nSuggested Users ‎unisex-teen\nNumber of Items ‎1\nManufacturer ‎Wham-O\nStyle ‎6 PACK ( RED + BLUE )\nIncluded Components ‎Whamo-O Frisbee - World Class Frisbee\nSize ‎9.25\"\nAdditional Information\nASIN B0CHBZZSLH\nCustomer Reviews 4.5 4.5 out of 5 stars    88 ratings\n4.5 out of 5 stars\nBest Sellers Rank #84,918 in Sports & Outdoors (See Top 100 in Sports & Outdoors)\n#127 in Flying Discs\nDate First Available March 19, 2022\nFeedback\nWould you like to tell us about a lower price?"
+}

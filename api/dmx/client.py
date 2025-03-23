@@ -13,7 +13,7 @@ class DMXAPIClient:
         api_key: str,
         base_url: str = "https://www.dmxapi.cn",
         max_retries: int = 3,
-        timeout: int = 30
+        timeout: int = 2000
     ):
         self.api_key = api_key
         self.base_url = base_url
@@ -52,7 +52,6 @@ class DMXAPIClient:
                 data=json.dumps(payload) if payload else None,
                 timeout=self.timeout
             )
-            print(response.raw.read())
             response.raise_for_status()
             return response.json()
         except requests.exceptions.HTTPError as e:
