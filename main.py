@@ -24,7 +24,7 @@ OUTPUT_DIR = 'output'
 tasks = extract_tasks('./tasks')
 print('[chaos] 处理任务 {} 个'.format(len(tasks)))
 
-for task in tasks[1:2]:
+for task in tasks:
     content = task['content']
     entry = task['entry']
     imgs = task['imgs']
