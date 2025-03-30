@@ -1,7 +1,8 @@
 from api.dmx.chat import ChatAPI
 from api.dmx.vision import VisionAPI
+from api.dmx.image import ImageAPI
 from api.gemini.client import GeminiAPIClient
-from utils.to_pdf import convert_markdown_to_pdf
+# from utils.to_pdf import convert_markdown_to_pdf
 from utils.extract_tasks import extract_tasks
 from utils.loads_output import write_task_file
 from prompt.extract_generate import before, md
@@ -16,8 +17,7 @@ GEN_KEY = os.environ.get('GEN_KEY')
 chat_client = ChatAPI(api_key=DMX_KEY)
 vision_client = VisionAPI(api_key=DMX_KEY)
 genai_clent = GeminiAPIClient(api_key=GEN_KEY)
-
-
+image_client = ImageAPI(api_key=DMX_KEY)
 
 OUTPUT_DIR = 'output'
 
